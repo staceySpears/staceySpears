@@ -1,6 +1,6 @@
 # Hi, I'm Stacey Spears 👋
 
-### Salesforce Platform & Agentforce Builder
+### RegTech Founder & Full-Stack Builder
 *Turning regulated workflows into tested, traceable software.*
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
@@ -13,46 +13,39 @@
 
 ---
 
-I translate affordable-housing compliance requirements and mission-driven workflows into testable software. Since January 2019, I have served as Agent of Record on HUD Section 8 / HAP contracts for a small family-owned portfolio, supporting HQS readiness, recertifications, rent-reasonableness documentation, and audit readiness.
+I turn hands-on affordable-housing compliance experience into auditable software. Since 2019, managing HUD Section 8/HAP workflows for a small family portfolio has shaped how I build: clear rules, traceable decisions, and systems people can trust.
 
-My software work is portfolio, capstone, and project-based—not professional software-engineering tenure. I use AI tools to accelerate parts of development while remaining responsible for requirements, architecture, review, testing, correction, and validation.
+My stack spans React/Node/MongoDB, Java/Spring Boot/AWS, Salesforce, and AI automation.
 
-## Featured project work
+## 🚀 Currently building
 
-### [Tenura](https://github.com/staceySpears/Tenura-Architecture-Showcase) — Affordable-housing workflow platform
+### [Tenura](https://github.com/staceySpears/Tenura-Architecture-Showcase) — Affordable-housing compliance platform
 
-**Status:** Pre-pilot / in development. Work began in March 2026.
+- Jurisdiction-aware compliance engine for HUD Section 8/HCV workflows
+- HAP state machines, versioned decisions, audit records, and stable rule IDs
+- Deterministic agents, automated tests, ADRs, and operational runbooks
 
-- Jurisdiction-aware compliance rules for HUD Section 8 / HCV workflows
-- HAP state-machine utilities, versioned decisions, and audit records
-- Deterministic rule-based agents—not LLM decision-makers
-- Stable rule IDs, a versioned finding schema, and an offline evaluation adapter
-- Automated tests, architecture decision records, and operational runbooks
-- Public repository is an architecture showcase; the full application remains private
+## Additional project
 
-### [GenerosityWell](https://github.com/staceySpears/generositywell-fundraising-platform) — Team capstone and independent modernization
+### [GenerosityWell](https://github.com/staceySpears/generositywell-fundraising-platform) — Fundraising platform modernization
 
-**Provenance:** Originally built as a 2022 Kenzie Academy / Southern New Hampshire University team capstone. I independently modernized supported portions from **March 2026–Present**; I do not claim sole authorship of the original project.
+*2022 Kenzie Academy/SNHU team capstone; independently modernized in 2026.*
 
-- Spring Boot 3, Java 21, React/Vite, AWS SDK v2, DynamoDB, and Caffeine
-- Stripe PaymentIntent, PaymentElement, and signed Spring webhook foundations
-- Disabled-by-default, one-way Salesforce REST synchronization to standard Campaign, Opportunity, and Contact objects
-- Actual-org validation, source-controlled Salesforce metadata, impact reporting, and Agentforce assistance remain planned
-- Synthetic development data only; no claim of production deployment or nonprofit adoption
+- Java 21, Spring Boot 3, React/Vite, DynamoDB, and Caffeine
+- Stripe PaymentIntent/PaymentElement and signed webhook foundations
+- One-way Salesforce REST sync to Campaign, Opportunity, and Contact
 
-### 🚀 Currently building
-Tenura's jurisdiction-aware compliance engine (React/Node/MongoDB) — born from managing 3 HUD properties and hating the paperwork.
+## 🧠 Credentials
 
-### 🧠 Certifications & badges
 - Agentforce Service — Trailhead Superbadge
 - Prompt Builder Templates — Trailhead Superbadge
 - MongoDB: Vector Search & Data Modeling
 - IBM: Data Fundamentals
 - IBM: Analyze Data & Implement Decision Modeling
 
-## Contact and context
+## Connect
 
-- **Focus:** Salesforce platform work, AI automation, affordable-housing compliance, GovTech, and PropTech
-- **Connect:** [LinkedIn](https://www.linkedin.com/in/staceyspears2/) · [Trailhead](https://www.salesforce.com/trailblazer/sspears)
+- **Focus:** RegTech · PropTech · GovTech · AI automation
+- **Links:** [LinkedIn](https://www.linkedin.com/in/staceyspears2/) · [Trailhead](https://www.salesforce.com/trailblazer/sspears)
 - **Email:** [staceyspears2@gmail.com](mailto:staceyspears2@gmail.com)
 - **Off-keyboard:** Chef and gardener
