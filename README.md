@@ -1,15 +1,15 @@
-# Hi, I'm Stacey Spears 👋
+# Hi, I'm Stacey Spears
 
 ### RegTech Founder & Full-Stack Builder
 *Turning regulated workflows into tested, traceable software.*
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
 ---
 
@@ -17,7 +17,7 @@ I turn hands-on affordable-housing compliance experience into auditable software
 
 My stack spans React/Node/MongoDB, Java/Spring Boot/AWS, Salesforce, and AI automation.
 
-## 🚀 Currently building
+## Currently building
 
 ### [Tenura](https://github.com/staceySpears/Tenura-Architecture-Showcase) — Affordable-housing compliance platform
 
@@ -25,7 +25,9 @@ My stack spans React/Node/MongoDB, Java/Spring Boot/AWS, Salesforce, and AI auto
 - HAP state machines, versioned decisions, audit records, and stable rule IDs
 - Deterministic agents, automated tests, ADRs, and operational runbooks
 
-## Additional project
+---
+
+## Additional projects
 
 ### [GenerosityWell](https://github.com/staceySpears/generositywell-fundraising-platform) — Fundraising platform modernization
 
@@ -35,13 +37,25 @@ My stack spans React/Node/MongoDB, Java/Spring Boot/AWS, Salesforce, and AI auto
 - Stripe PaymentIntent/PaymentElement and signed webhook foundations
 - One-way Salesforce REST sync to Campaign, Opportunity, and Contact
 
-## 🧠 Credentials
+### Job Scorer — Truth-first job-search pipeline
+
+*Google Apps Script implementation; public repository coming soon.*
+
+- Gmail → Apps Script → Groq LLM → Google Sheets
+- Structured-JSON scoring, model fallback, rate-limit backoff, and prompt-injection defenses
+- Designed to surface evidence-based job matches
+
+---
+
+## Credentials
 
 - Agentforce Service — Trailhead Superbadge
 - Prompt Builder Templates — Trailhead Superbadge
 - MongoDB: Vector Search & Data Modeling
 - IBM: Data Fundamentals
 - IBM: Analyze Data & Implement Decision Modeling
+
+---
 
 ## Connect
 
